@@ -1,0 +1,15 @@
+ser
+eu sou
+tu és
+ele é
+nós somos
+vós sois
+eles são
+
+estar
+eu estou
+tu estás
+ele está
+nós estamos
+vós estais
+eles estão

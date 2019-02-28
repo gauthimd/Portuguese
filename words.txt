@@ -1,0 +1,26 @@
+quem		who
+quê		what
+onde		where
+quando		when
+por quê		why
+qual		which
+como		how
+quanto		how much
+quantos		how many
+um		a/an (m)
+uma		a/an (f)
+uns		some (m)
+umas		some (f)
+o		the (m/s)
+a		the (f/s)
+os		the (m/p)
+as		the (f/p)
+eu		I
+você		you
+o senhor	you (m/formal)
+a senhora	you (f/formal)
+ele		he/it
+ela		she/it
+nós		we
+vocês		you (p)
+eles/elas	they (m/f)
